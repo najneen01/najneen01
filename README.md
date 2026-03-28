@@ -5,7 +5,7 @@
 
 ## 🛠️ Skills
 - R | Python | bash | SPSS  
-- Genomics | Proteomics | Transcriptomics  
+- Genomics | Transcriptomics | Proteomics | AI-ML-DL 
 - Bioinformatics | Molecular Biology  
 
 ---
@@ -19,10 +19,5 @@
 ## 📫 Contact Me
 - Email: [najneenrejwana13@gmail.com]
 
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=najneen01)
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najneen01)
 
 
