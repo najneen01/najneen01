@@ -1,8 +1,5 @@
 ## ABOUT ME
-Interdisciplinary MSc graduate in Genetics with experience in both bioinformatics, and molecular biology
-techniques. Experienced in genomics, proteomics, and transcriptomics research, with biostatistical experience
-in correlation and regression analyses using SPSS, R, and Python. Passionate about integrating computational
-and experimental approaches to investigate complex biological and disease-related questions.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Interdisciplinary+MSc+Graduate+in+Genetics;Bioinformatics+|+Molecular+Biology;Genomics+|+Proteomics+|+Transcriptomics;R+|+Python+|+SPSS;Integrating+Computational+and+Experimental+Research)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=najneen01&color=blue)
 ## 🚀 Skills
@@ -11,3 +8,8 @@ and experimental approaches to investigate complex biological and disease-relate
 - Bash
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=najneen01)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najneen01)
+
+
