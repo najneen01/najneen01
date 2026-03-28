@@ -9,10 +9,5 @@ and experimental approaches to investigate complex biological and disease-relate
 - R
 - Python
 - Bash
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=najneen01&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najneen01&layout=compact)
-
-
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=najneen01)
