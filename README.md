@@ -11,7 +11,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=najneen01)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najneen01)
 
 ---
