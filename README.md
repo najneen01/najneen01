@@ -14,7 +14,8 @@
 ---
 
 ## 📫 Contact Me
-- Email: [najneenrejwana13@gmail.com]
+- [najneenrejwana13@gmail.com]
+- [najneen_rejwana@spiralone.org]
 
 
 
