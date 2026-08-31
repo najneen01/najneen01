@@ -15,7 +15,7 @@
 
 ## 📫 Contact Me
 - [najneenrejwana13@gmail.com]
-- [najneen_rejwana@spiralone.org]
+- [nrejwana@spiralone.org]
 
 
 
